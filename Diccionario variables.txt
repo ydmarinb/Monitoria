@@ -1,0 +1,17 @@
+Tamaño <- Tamaño de la empresa.
+
+Sector <- Sector al que pertenece la empresa.
+
+ActividadEconomica <- Principal actividad economica que realiza la empresa.
+
+Cantidad de personas contratadas en cada medio de contratación:
+SENA, Temporal, Bolsa de empleo(BolsaEmpleo),Periodico, Recomendacio de amigos(Recomendación amigos), Recomendación trabajador (RecomendacionTra), 
+otro.
+
+Nivel_contratados <- En que nivel academico se encuentran las personas contratadas.
+
+TotalPrefesionales <- Total de profesionales contratados.
+
+TotalTecTecnolo <- Total de tecnicos o tecnologos contratados.
+
+
